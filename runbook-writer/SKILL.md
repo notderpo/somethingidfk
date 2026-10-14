@@ -26,9 +26,6 @@ Compose: /opt/stacks/<service>/compose.yaml
 - Start / stop / logs (Arcane and CLI)
 - Update procedure (tag bump, migrations, breaking-change check)
 
-## Monitoring
-- Uptime Kuma check: type, URL, expected result
-
 ## Known issues
 - <gotchas, workarounds>
 ```
